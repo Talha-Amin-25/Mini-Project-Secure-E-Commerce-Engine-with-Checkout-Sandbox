@@ -74,4 +74,4 @@ Open `http://localhost:5173` in your browser.
 
 ## 👤 Developer
 **Talha Amin**  
-*Full-Stack Developer Intern*
+*Full-Stack Developer*
