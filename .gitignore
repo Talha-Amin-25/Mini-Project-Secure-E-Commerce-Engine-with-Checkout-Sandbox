@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build & Output
+dist/
+build/
+**/dist/
+
+# Environment Variables & Secrets (NEVER COMMIT SENSITIVE STRIPE KEYS!)
+.env
+.env.local
+.env.*
+!.env.example
+
+# SQLite Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
